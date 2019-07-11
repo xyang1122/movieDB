@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89070a30-6db6-4241-9c8c-5ddcb16991d1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="89070a30-6db6-4241-9c8c-5ddcb16991d1" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +29,7 @@
           <entry key="js" value="17" />
           <entry key="json" value="3" />
           <entry key="map" value="4" />
-          <entry key="php" value="45" />
+          <entry key="php" value="46" />
           <entry key="scss" value="34" />
         </counts>
       </usages-collector>
@@ -41,7 +38,7 @@
           <entry key="CSS" value="14" />
           <entry key="JSON" value="3" />
           <entry key="JavaScript" value="17" />
-          <entry key="PHP" value="45" />
+          <entry key="PHP" value="46" />
           <entry key="SCSS" value="34" />
           <entry key="SourceMap" value="4" />
         </counts>
@@ -85,11 +82,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/coding-test/asset/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="391" column="29" selection-start-line="391" selection-start-column="29" selection-end-line="391" selection-end-column="29" />
+            <state relative-caret-position="389">
+              <caret line="401" column="18" lean-forward="true" selection-start-line="401" selection-start-column="18" selection-end-line="401" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -120,15 +126,6 @@
             </state>
           </provider>
           <provider editor-type-id="sourcemapFileViewerProvider" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/coding-test/asset/js/homepage.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="31" column="42" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
-            </state>
-          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -250,6 +247,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/wp-content/themes/coding-test/node_modules" />
+  </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
       <path value="$PROJECT_DIR$/wp-content/themes/coding-test/package.json" />
@@ -280,12 +280,6 @@
               <item name="coding-test" type="b2602c69:ProjectViewProjectNode" />
               <item name="coding-test" type="462c0819:PsiDirectoryNode" />
               <item name="wp-content" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="coding-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coding-test" type="462c0819:PsiDirectoryNode" />
-              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -339,12 +333,12 @@
       <workItem from="1562472212675" duration="51211000" />
       <workItem from="1562640056020" duration="27411000" />
       <workItem from="1562731827651" duration="33216000" />
-      <workItem from="1562820965721" duration="6402000" />
+      <workItem from="1562820965721" duration="6755000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="127451000" />
+    <option name="totallyTimeSpent" value="127804000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -420,11 +414,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/pro/admin/views/html-options-page.php">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-756" />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-settings.php">
       <provider selected="true" editor-type-id="text-editor" />
@@ -575,8 +564,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/coding-test/asset/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="391" column="29" selection-start-line="391" selection-start-column="29" selection-end-line="391" selection-end-column="29" />
+        <state relative-caret-position="389">
+          <caret line="401" column="18" lean-forward="true" selection-start-line="401" selection-start-column="18" selection-end-line="401" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" />
         </state>
       </provider>
     </entry>
