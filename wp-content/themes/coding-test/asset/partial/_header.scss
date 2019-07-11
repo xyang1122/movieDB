@@ -1,0 +1,65 @@
+.mobileMenu, .homeMenu, .blogMenu, .movieMenu, .pageMenu{
+  background: #262626;
+  display: none;
+  position: fixed;
+  width: 50%;
+  order: 2;
+  height: 100vh;
+  top: 0;
+  right: 0;
+  font-size: 18px;
+}
+.secondMenu ul{
+  list-style: none;
+}
+.mobileMenu ul li{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.items{
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+  font-size: 16px;
+  color: #fff;
+  padding: 10px 0;
+}
+h4.subMenu{
+  margin: 0 !important;
+  text-align: center;
+}
+.forwards{
+  color: white;
+  padding-right: 20px;
+}
+.backwards{
+    color: white;
+    padding-left: 20px;
+  }
+.transformPage{
+  transform: scale(1) translateX(-50%);
+  overflow: hidden;
+}
+.pageActionOfSubmenu{
+  overflow: hidden;
+}
+.navbar-toggler{
+  border: none;
+  background: transparent;
+}
+button.navbar-toggler:visited{
+  border: none !important;
+  background: transparent !important;
+}
+button.navbar-toggler:focus{
+  border: none !important;
+  background: transparent !important;
+}
+.backwards{
+  float: left;
+}
+#content.site-content{
+  overflow: initial;
+}
+
+
+

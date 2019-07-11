@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="89070a30-6db6-4241-9c8c-5ddcb16991d1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1155672643">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="14" />
+          <entry key="js" value="17" />
+          <entry key="json" value="3" />
+          <entry key="map" value="4" />
+          <entry key="php" value="45" />
+          <entry key="scss" value="34" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="14" />
+          <entry key="JSON" value="3" />
+          <entry key="JavaScript" value="17" />
+          <entry key="PHP" value="45" />
+          <entry key="SCSS" value="34" />
+          <entry key="SourceMap" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="216" />
+          <entry key="js" value="15683" />
+          <entry key="php" value="3288" />
+          <entry key="scss" value="4445" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="216" />
+          <entry key="HTML" value="2" />
+          <entry key="JavaScript" value="15681" />
+          <entry key="PHP" value="3288" />
+          <entry key="SCSS" value="4445" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/coding-test/asset/partial/_base.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="398">
+              <caret line="281" column="1" selection-start-line="281" selection-start-column="1" selection-end-line="281" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/coding-test/asset/js/header.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/coding-test/asset/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="239">
+              <caret line="391" column="29" lean-forward="true" selection-start-line="391" selection-start-column="29" selection-end-line="391" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/coding-test/Gruntfile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="353">
+              <caret line="96" column="63" selection-start-line="96" selection-start-column="63" selection-end-line="96" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/coding-test/asset/partial/style.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/coding-test/asset/style.css.map">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="26" selection-start-column="26" selection-end-column="26" />
+            </state>
+          </provider>
+          <provider editor-type-id="sourcemapFileViewerProvider" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/coding-test/asset/js/homepage.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="31" column="42" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/coding-test/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="466">
+              <caret line="77" column="43" selection-start-line="77" selection-start-column="20" selection-end-line="77" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/coding-test/asset/partial/_single.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="458">
+              <caret line="103" selection-start-line="103" selection-end-line="103" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/coding-test/asset/partial/_header.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="546">
+              <caret line="64" selection-start-line="64" selection-end-line="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>wp_</find>
+      <find>jquery</find>
+      <find>$</find>
+      <find>pagi</find>
+      <find>.page-item.active .page-link</find>
+      <find>unde</find>
+      <find>.page-item:last-child .page-link</find>
+      <find>scale</find>
+      <find>80</find>
+      <find>img</find>
+      <find>pagina</find>
+      <find>123</find>
+      <find>focus</find>
+      <find>.movieDetails a:visited</find>
+      <find>page-link:ho</find>
+      <find>fa-star</find>
+      <find>init</find>
+      <find>movie</find>
+      <find>star</find>
+      <find>cast</find>
+      <find>site-con</find>
+      <find>submit</find>
+      <find>input</find>
+      <find>fa</find>
+      <find>inputbox</find>
+      <find>.dropdown-menu</find>
+      <find>drop</find>
+      <find>click</find>
+      <find>console</find>
+      <find>fit</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/moviedb" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/wp-config-sample.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentynineteen/index.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentynineteen/home.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/layout/_layout.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentynineteen/style.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentynineteen/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentynineteen/front-page.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentynineteen/assets/homepage.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentynineteen/header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentynineteen/footer.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/coding-test/package.json" />
+        <option value="$PROJECT_DIR$/wp-content/themes/coding-test/asset/style.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/coding-test/assets/homepage.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/coding-test/style.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/coding-test/asset/_base.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/coding-test/asset/partial/_home.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/coding-test/asset/js/pagination.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/coding-test/front-page.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/coding-test/footer.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/coding-test/asset/partial/_footer.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/coding-test/asset/style.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/coding-test/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/coding-test/movie-single.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/coding-test/header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/coding-test/asset/js/singlePage.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/coding-test/asset/js/homepage.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/coding-test/asset/js/header.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/coding-test/asset/partial/_header.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/coding-test/asset/partial/_single.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/coding-test/asset/partial/style.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/coding-test/asset/partial/_base.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/coding-test/Gruntfile.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/wp-content/themes/coding-test/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/wp-content/themes/coding-test/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="coding-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coding-test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coding-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coding-test" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coding-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coding-test" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wp-content/plugins" />
+      <recent name="$PROJECT_DIR$/wp-content/themes/coding-test/asset/image" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wp-content/themes/coding-test/asset" />
+      <recent name="$PROJECT_DIR$/wp-content/themes/coding-test/asset/partial" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89070a30-6db6-4241-9c8c-5ddcb16991d1" name="Default Changelist" comment="" />
+      <created>1562245712327</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562245712327</updated>
+      <workItem from="1562245713841" duration="2372000" />
+      <workItem from="1562322830101" duration="4333000" />
+      <workItem from="1562331817035" duration="2506000" />
+      <workItem from="1562472212675" duration="51211000" />
+      <workItem from="1562640056020" duration="27411000" />
+      <workItem from="1562731827651" duration="33216000" />
+      <workItem from="1562820965721" duration="6286000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="127335000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2714055" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32876712" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.26712328" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentynineteen/classes/class-twentynineteen-svg-icons.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/_normalize.scss" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/variables-site/_variables-site.scss" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/variables-site/_transitions.scss" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/variables-site/_structure.scss" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/layout/_layout.scss" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentynineteen/print.css" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentynineteen/style.css" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentynineteen/functions.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentynineteen/index.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentynineteen/front-page.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentynineteen/header.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentynineteen/assets/homepage.css" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentynineteen/home.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentynineteen/footer.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentynineteen/single.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coding-test/sass/blocks/_blocks.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coding-test/style-rtl.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coding-test/print.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coding-test/assets/homepage.css" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coding-test/style-editor.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coding-test/sass/_normalize.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/pro/admin/views/html-options-page.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-756" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-settings.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coding-test/home.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coding-test/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="6381" selection-start-line="6381" selection-end-line="6381" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coding-test/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="109" selection-start-line="109" selection-end-line="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coding-test/asset/partial/_home.scss" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coding-test/asset/partial/compoents/_pagination.scss" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coding-test/asset/partial/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coding-test/single.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coding-test/asset/js/pagination.js" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coding-test/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3675">
+          <caret line="253" column="25" selection-start-line="253" selection-start-column="25" selection-end-line="253" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coding-test/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coding-test/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="62" column="115" lean-forward="true" selection-start-line="62" selection-start-column="46" selection-end-line="62" selection-end-column="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coding-test/asset/js/jquery-3.4.1.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="32" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coding-test/front-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coding-test/asset/partial/_footer.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="59" column="24" selection-start-line="59" selection-start-column="24" selection-end-line="59" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coding-test/movie-single.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coding-test/asset/js/singlePage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="216" selection-start-line="216" selection-end-line="216" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coding-test/asset/js/homepage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="31" column="42" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coding-test/asset/js/header.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coding-test/asset/style.css.map">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coding-test/asset/partial/_header.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coding-test/asset/partial/_single.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="103" selection-start-line="103" selection-end-line="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coding-test/asset/partial/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coding-test/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="77" column="43" selection-start-line="77" selection-start-column="20" selection-end-line="77" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coding-test/asset/partial/_base.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="281" column="1" selection-start-line="281" selection-start-column="1" selection-end-line="281" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coding-test/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="96" column="63" selection-start-line="96" selection-start-column="63" selection-end-line="96" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coding-test/asset/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="391" column="29" lean-forward="true" selection-start-line="391" selection-start-column="29" selection-end-line="391" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
