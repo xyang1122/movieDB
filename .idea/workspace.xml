@@ -201,7 +201,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/moviedb" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -339,12 +339,12 @@
       <workItem from="1562472212675" duration="51211000" />
       <workItem from="1562640056020" duration="27411000" />
       <workItem from="1562731827651" duration="33216000" />
-      <workItem from="1562820965721" duration="6286000" />
+      <workItem from="1562820965721" duration="6402000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="127335000" />
+    <option name="totallyTimeSpent" value="127451000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
